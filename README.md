@@ -17,7 +17,7 @@
 
 ## 📸 Demo
 
-- Https://deandev.rf.gd/removebg
+- Https://deandev.rf.gd/bgremove
 
 
 ### 1. Clone Repository
