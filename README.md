@@ -20,7 +20,7 @@
 
 ## 📸 Demo
 
-- Https://Deandev.ct.ws/removebg
+- Https://deandev.rf.gd/removebg
 
 ## 🚀 Cara Menjalankan Secara Lokal
 
