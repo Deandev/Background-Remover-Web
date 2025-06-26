@@ -13,16 +13,12 @@
 
 ## 🧰 Teknologi yang Digunakan
 
-- 🔧 **Backend:** Python (Flask/FastAPI)
 - 🌐 **Frontend:** HTML, CSS, JavaScript
-- 🤖 **AI Engine:** [rembg](https://github.com/danielgatis/rembg) (Remove Background CLI/API)
-- 📦 **Deployment:** Local server / Bisa dihosting ke platform seperti Vercel atau Render
 
 ## 📸 Demo
 
 - Https://deandev.rf.gd/removebg
 
-## 🚀 Cara Menjalankan Secara Lokal
 
 ### 1. Clone Repository
 ```bash
